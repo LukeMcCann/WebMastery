@@ -7,3 +7,6 @@ https://developer.mozilla.org/en-US/
 
 HTML5:
 https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+
+Unicode:
+https://apps.timwhitlock.info/emoji/tables/unicode
